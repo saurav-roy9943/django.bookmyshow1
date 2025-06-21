@@ -30,6 +30,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['.vercel.app', 'localhost']
 
 
+
 # Application definition
 
 INSTALLED_APPS = [
